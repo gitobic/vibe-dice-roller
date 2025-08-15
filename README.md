@@ -4,7 +4,7 @@
 
 A beautiful, interactive web-based dice rolling application that supports all standard tabletop gaming dice types. Perfect for D&D, board games, or any situation where you need to roll dice!
 
-![Vibe Dice Roller Screenshot](https://via.placeholder.com/800x400/667eea/ffffff?text=Vibe+Dice+Roller)
+![Vibe Dice Roller Screenshot](vibe-dice-roller.jpg)
 
 ## ✨ Features
 
