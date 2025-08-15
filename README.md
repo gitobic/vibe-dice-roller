@@ -1,5 +1,7 @@
 # 🎲 Vibe Dice Roller
 
+*Experimental One-Shot with Claude Code to create a simple dice roller*
+
 A beautiful, interactive web-based dice rolling application that supports all standard tabletop gaming dice types. Perfect for D&D, board games, or any situation where you need to roll dice!
 
 ![Vibe Dice Roller Screenshot](https://via.placeholder.com/800x400/667eea/ffffff?text=Vibe+Dice+Roller)
@@ -100,7 +102,7 @@ This project was built to fulfill the following requirements:
 
 ## 🔗 Demo
 
-[Live Demo](https://your-username.github.io/vibe-dice) *(Update this link when you publish to GitHub Pages)*
+[Live Demo](https://gitobic.github.io/vibe-dice-roller) *(Update this link when you publish to GitHub Pages)*
 
 ---
 
