@@ -102,7 +102,7 @@ This project was built to fulfill the following requirements:
 
 ## 🔗 Demo
 
-[Live Demo](https://gitobic.github.io/vibe-dice-roller) *(Update this link when you publish to GitHub Pages)*
+[Live Demo](https://gitobic.github.io/vibe-dice-roller)
 
 ---
 
